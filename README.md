@@ -1,253 +1,212 @@
-<div align="center">
+# Wilfreed Adjaro | Data Science & Software Engineer
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bienvenue%20dans%20mon%20Univers&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+![Portfolio Banner](https://raw.githubusercontent.com/wilfreed8/portofolio_react_vercel/main/public/garcon.png)
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Développeur+Web+Full+Stack;Créateur+d'Expériences+Digitales;Passionné+de+Technologies;Toujours+en+Apprentissage" alt="Typing SVG" /></a>
+> Développeur passionné et créatif spécialisé en Data Science et Software Engineering. Je transforme les idées en expériences numériques exceptionnelles avec une expertise en développement full-stack et en Data Science.
 
-<br/>
+---
 
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🌟 À Propos
 
-</div>
+Passionné par la création d'applications web modernes et performantes, je m'efforce de créer des solutions élégantes et efficaces qui répondent aux besoins des utilisateurs. Actuellement basé à **Rabat, Maroc**, je suis disponible pour des opportunités professionnelles.
 
-## 🚀 À Propos de Moi
+- 📧 **Email**: wilfreednouame@gmail.com
+- 🎓 **Formation**: Ingénierie Data & Software Science
+- 💼 **Statut**: Disponible
+- 📍 **Localisation**: Rabat, Maroc
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 👨‍💻 Développeur Full Stack
+## 🚀 Mes Compétences
 
-```typescript
-const developer = {
-    name: "ADJARO Francois",
-    location: "Rabat, Maroc 🇲🇦",
-    code: [
-        "JavaScript", 
-        "TypeScript", 
-        "Java", 
-        "PHP",
-        "C"
-    ],
-    askMeAbout: [
-        "web dev", 
-        "tech", 
-        "IA tools"
-    ]
-};
-```
+### Frontend Development
+- **React** (85%) - Expert en composants réutilisables et hooks avancés
+- **Next.js** (75%) - Applications SSR et SSG performantes
+- **TypeScript** (75%) - Code typé robuste et maintenable
+- **Tailwind CSS** (90%) - Design responsive et moderne
 
-</td>
-<td width="50%" valign="top">
+### Backend Development
+- **Laravel** (70%) - API RESTful et applications web complètes
+- **PHP** (70%) - Développement backend et logique métier
 
-### 🎯 Focus Actuel
+### Tools & DevOps
+- **Vercel** (75%) - Déploiement et hébergement serverless
+- **Supabase** (75%) - Base de données et backend en temps réel
 
-```typescript
-const focus = {
-    currentFocus: `
-        Construire des applications 
-        web performantes et scalables
-    `,
-    funFact: `
-        Je transforme le café 
-        en code ☕ → 💻
-    `
-};
-```
+---
 
-</td>
-</tr>
-</table>
+## 📊 Projets Réalisés
 
-### 🛠️ Stack Technologique Complète
+### 🎓 **Plateforme Éducative Universitaire**
+**Technologies**: React, JavaScript, TypeScript, Tailwind CSS  
+**Description**: Site web éducatif permettant aux étudiants de télécharger des cours, examens et ressources de différents modules via des liens Google Drive.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Fonctionnalités**:
+- Téléchargement de cours et examens
+- Organisation par modules et filières
+- Liens Drive intégrés
+- Interface moderne et responsive
 
-**🎨 Front-End**
+**🔗 [Voir le projet](https://cesambm.vercel.app/) | [GitHub](https://github.com/wilfreed8/Cesam_Bm)**
+
+---
+
+### 💼 **Portfolio Personnel Interactif**
+**Technologies**: React, Tailwind CSS, Framer Motion, shadcn/ui  
+**Description**: Mon propre site web de portfolio où je présente mes réalisations, mon parcours académique et mes compétences techniques.
+
+**Fonctionnalités**:
+- Animations et transitions dynamiques
+- Section projets interactifs
+- Compétences et parcours scolaire
+- Liens vers GitHub et LinkedIn
+
+**Résultats**: Visibilité accrue et retours positifs de recruteurs et collègues du domaine informatique.
+
+---
+
+### 🤖 **Détection de Fraude par Apprentissage Automatique**
+**Technologies**: Python, Scikit-learn, TensorFlow, Pandas  
+**Description**: Conception d'un outil de détection de fraude basé sur le machine learning appliqué à la consommation d'électricité.
+
+**Fonctionnalités**:
+- Exploration de données réelles
+- Test de différents algorithmes (ARIMA, CNN-2D, Random Forest)
+- Prédiction des comportements frauduleux
+
+**Résultats**: Obtention d'un modèle CNN-2D avec une précision supérieure à 93% sur le jeu de test.
+
+---
+
+### 🎫 **API de Réservation et d'Annonces d'Événements**
+**Technologies**: Laravel, MySQL, Postman  
+**Description**: API backend pour une application de réservation de places à des événements et de consultation d'annonces.
+
+**Fonctionnalités**:
+- Authentification JWT
+- CRUD complet pour les événements
+- Réservation en ligne
+- Gestion des utilisateurs et rôles
+
+**Résultats**: API fonctionnelle intégrée à une application front-end en développement.
+
+---
+
+### 🛒 **Site Web E-Commerce**
+**Technologies**: HTML, CSS, JavaScript, PHP, MySQL  
+**Description**: Développement Full-Stack d'une plateforme d'achat simulée dans un cadre universitaire.
+
+**Fonctionnalités**:
+- Catalogue de produits avec filtres
+- Gestion du panier d'achat
+- Processus de commande simulé
+- Interface utilisateur intuitive
+
+**Résultats**: Validation des compétences en développement web et acquisition d'une expérience concrète.
+
+---
+
+### 🖥️ **Application de Gestion de Parc Matériel**
+**Technologies**: .Net, SQL, PhpmyAdmin  
+**Description**: Application de gestion d'inventaire permettant de suivre et d'organiser l'attribution et l'état du matériel au sein d'une organisation.
+
+**Fonctionnalités**:
+- Ajout, modification, suppression de matériel (CRUD)
+- Suivi des attributions et retours
+- Gestion des utilisateurs et des droits
+- Rapports d'inventaire
+
+**Résultats**: Amélioration significative de la traçabilité du matériel et réduction des pertes.
+
+---
+
+### 🔗 **API RESTful Laravel (Gestion de Contenu & Tâches)**
+**Technologies**: Laravel, PHP, Supabase (PostgreSQL), Vercel, JWT  
+**Description**: API backend robuste avec Laravel, déployée sur Vercel et utilisant Supabase comme base de données.
+
+**Fonctionnalités**:
+- Authentification JWT complète
+- CRUD Posts et Todos
+- Intégration Supabase
+- Déploiement Serverless sur Vercel
+- Sécurité des routes via middlewares
+
+**🔗 [Voir l'API](https://portofoliolaravelvercel.vercel.app) | [GitHub](https://github.com/wilfreed8/portofolio_laravel)**
+
+---
+
+## 🛠️ Stack Technique
+
+### Frontend
 ```javascript
-{
-  frameworks: [
-    "React",
-    "Next.js"
-  ],
-  styling: [
-    "Tailwind CSS",
-    "Styled Components"
-  ]
+const frontend = {
+  frameworks: ["React", "Next.js"],
+  languages: ["TypeScript", "JavaScript"],
+  styling: ["Tailwind CSS", "CSS3"],
+  animation: ["Framer Motion", "GSAP"],
+  ui: ["shadcn/ui", "DaisyUI"]
 }
 ```
 
-</td>
-<td width="33%" valign="top">
-
-**⚙️ Back-End**
-```python
-{
-  "php": [
-    "PHP",
-    "Laravel"
-  ],
-  "python": [
-    "FastAPI"
-  ]
+### Backend
+```php
+const backend = {
+  languages: ["PHP", "Python"],
+  frameworks: ["Laravel"],
+  databases: ["MySQL", "PostgreSQL", "Supabase"],
+  apis: ["RESTful", "JWT"]
 }
 ```
 
-</td>
-<td width="33%" valign="top">
-
-**🗄️ Databases**
-```sql
-{
-  databases: [
-    "PostgreSQL",
-    "MySQL"
-  ]
-}
+### Tools & DevOps
+```yaml
+tools:
+  deployment: ["Vercel"]
+  version_control: ["Git", "GitHub"]
+  package_managers: ["npm", "Composer"]
+  testing: ["Postman"]
 ```
 
-</td>
-</tr>
-<tr>
-<td colspan="3">
+---
 
-**🔧 DevOps & Tools**
-```bash
-devOps=["Docker"]
-tools=["Git", "Figma", "Postman", "VS Code", "Supabase"]
-```
+## 💡 Soft Skills
 
-</td>
-</tr>
-</table>
+- **Communication** - Articulation claire des idées techniques
+- **Travail d'équipe** - Collaboration efficace avec les équipes
+- **Résolution de problèmes** - Approche analytique et créative
+- **Autonomie** - Gestion proactive des projets
+- **Créativité** - Solutions innovantes et originales
 
-<div align="center">
+---
 
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📈 Statistiques GitHub
 
-## 💻 Stack Technologique
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilfreed8&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfreed8&layout=compact&theme=radical&hide_border=true)
 
-<!-- Tech Icons with Animation -->
-<p>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+---
 
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Statistiques GitHub
-
-<!-- GitHub Stats Cards -->
-<p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-</p>
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&custom_title=Graphique%20d'Activité&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true" />
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-## 🎯 Projets Récents
+## 🔗 Me Contacter
 
 <div align="center">
 
-<!-- Project Cards -->
-<a href="https://github.com/VOTRE_USERNAME/projet1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VOTRE_USERNAME&repo=projet1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/VOTRE_USERNAME/projet2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VOTRE_USERNAME&repo=projet2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌐 Connectez-vous avec Moi
-
-<!-- Social Media Badges -->
-<p>
-    <a href="https://linkedin.com/in/VOTRE_PROFIL">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/VOTRE_COMPTE">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="mailto:votre.email@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://votre-portfolio.com">
-        <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://dev.to/VOTRE_COMPTE">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-    </a>
-</p>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Trophées GitHub
-
-<img src="https://github-profile-trophy.vercel.app/?username=VOTRE_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Citation du Jour
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-
-<!-- Profile Views Counter -->
-<br/>
-
-![](https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=00F7FF&style=for-the-badge&label=VISITEURS+DU+PROFIL)
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VOTRE_USERNAME/VOTRE_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VOTRE_USERNAME/VOTRE_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VOTRE_USERNAME/VOTRE_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wilfreed8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfreed-adjaro-385603341/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilfreednouame@gmail.com)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/127uELJx2TVi89Nw5MduUEcvPiNZ1q1bm/view?usp=drivesdk)
 
 </div>
 
 ---
 
+## 🌐 Portfolio en Ligne
+
+Découvrez mon portfolio interactif avec toutes les animations et fonctionnalités :
+
+**[🚀 Visiter mon Portfolio](https://votre-portfolio-url.com)**
+
+---
+
 <div align="center">
-    <b>✨ Créé avec passion et beaucoup de café ☕</b>
-    <br/>
-    <i>Transformons ensemble vos idées en réalité digitale ! 🚀</i>
+  <i>"La créativité est l'intelligence qui s'amuse."</i> - Albert Einstein
 </div>
