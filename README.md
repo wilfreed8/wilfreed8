@@ -15,29 +15,116 @@
 
 ## 🚀 À Propos de Moi
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Développeur Full Stack
+
 ```typescript
 const developer = {
-    name: "Votre Nom",
-    location: "Casablanca, Maroc 🇲🇦",
-    code: ["JavaScript", "TypeScript", "Python", "PHP"],
-    askMeAbout: ["web dev", "tech", "design", "innovation"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
-            css: ["Tailwind", "Sass", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "AWS", "CI/CD", "Nginx"],
-        tools: ["Git", "Figma", "Postman", "VS Code"]
-    },
-    currentFocus: "Construire des applications web performantes et scalables",
-    funFact: "Je transforme le café en code ☕ → 💻"
+    name: "ADJARO Francois",
+    location: "Rabat, Maroc 🇲🇦",
+    code: [
+        "JavaScript", 
+        "TypeScript", 
+        "Java", 
+        "PHP",
+        "C"
+    ],
+    askMeAbout: [
+        "web dev", 
+        "tech", 
+        "IA tools"
+    ]
 };
 ```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Focus Actuel
+
+```typescript
+const focus = {
+    currentFocus: `
+        Construire des applications 
+        web performantes et scalables
+    `,
+    funFact: `
+        Je transforme le café 
+        en code ☕ → 💻
+    `
+};
+```
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Stack Technologique Complète
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🎨 Front-End**
+```javascript
+{
+  frameworks: [
+    "React",
+    "Next.js"
+  ],
+  styling: [
+    "Tailwind CSS",
+    "Styled Components"
+  ]
+}
+```
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Back-End**
+```python
+{
+  "php": [
+    "PHP",
+    "Laravel"
+  ],
+  "python": [
+    "FastAPI"
+  ]
+}
+```
+
+</td>
+<td width="33%" valign="top">
+
+**🗄️ Databases**
+```sql
+{
+  databases: [
+    "PostgreSQL",
+    "MySQL"
+  ]
+}
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="3">
+
+**🔧 DevOps & Tools**
+```bash
+devOps=["Docker"]
+tools=["Git", "Figma", "Postman", "VS Code", "Supabase"]
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
